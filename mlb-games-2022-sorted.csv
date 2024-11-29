@@ -1,0 +1,30 @@
+Team,Wins,Losses,Division,Win Percentage
+Cleveland,92,70,AL Central,0.57
+Chicago White Sox,81,81,AL Central,0.5
+Minnesota,78,84,AL Central,0.48
+Detroit,66,96,AL Central,0.41
+Kansas City,65,97,AL Central,0.4
+New York Yankees,99,63,AL East,0.61
+Toronto,92,70,AL East,0.57
+Tampa Bay,86,76,AL East,0.53
+Baltimore,83,79,AL East,0.51
+Boston,78,84,AL East,0.48
+Houston,106,56,AL West,0.65
+Seattle,90,72,AL West,0.56
+Los Angeles Angels,73,89,AL West,0.45
+Texas,68,94,AL West,0.42
+Oakland,60,102,AL West,0.37
+St. Louis,93,69,NL Central,0.57
+Milwaukee,86,76,NL Central,0.53
+Chicago Cubs,74,88,NL Central,0.46
+Cincinnati,62,100,NL Central,0.38
+Pittsburgh,62,100,NL Central,0.38
+Atlanta,101,61,NL East,0.62
+New York Mets,101,61,NL East,0.62
+Philadelphia,87,75,NL East,0.54
+Miami,69,93,NL East,0.43
+Washington,55,107,NL East,0.34
+Los Angeles Dodgers,111,51,NL West,0.69
+San Diego,89,73,NL West,0.55
+San Francisco,81,81,NL West,0.5
+Colorado,68,94,NL West,0.42
